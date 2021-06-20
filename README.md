@@ -12,4 +12,4 @@ Example:
 ```
 python3 get_site_id.py --key <API KEY> --word <SEARCH STRING> --plot
 ```
-[test](test.gif)
+![test](test.gif)
