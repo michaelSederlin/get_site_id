@@ -10,7 +10,7 @@ Can also plot the stations in an interactive map based on the geopandas_view ext
 
 Example:
 ```
-python3 get_site_id.py --key <API KEY> --word <SEARCH STRING> --plot
+python3 get_site_id.py --key <API KEY> --word "Slussen" --plot
 ```
 
 Which saves the following map into a file `map.html` and opens it in a browser for viewing
