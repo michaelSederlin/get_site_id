@@ -13,5 +13,5 @@ Example:
 python3 get_site_id.py --key <API KEY> --word <SEARCH STRING> --plot
 ```
 
-Which saves the following map into a file `map.html` and opens in a browser for viewing
+Which saves the following map into a file `map.html` and opens it in a browser for viewing
 ![test](test.gif)
