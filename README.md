@@ -2,6 +2,7 @@
 
 
 A simple application which collects site IDs from the SL API "SL Platsuppslag" available at Trafiklab.  
+Uses Geopandas and geopands_view under developement and available at: https://github.com/martinfleis/geopandas-view
 
 In order to use it a valid API key is necessary. 
 
