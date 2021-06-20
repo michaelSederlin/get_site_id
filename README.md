@@ -12,8 +12,8 @@ Can also plot the stations in an interactive map based on the geopandas_view ext
 The API key can either be provided as a string with argument `--key` or as a text file with argument `--keyfile`.
 Example:
 ```
-python3 get_site_id.py --key <API KEY> --word "Slussen" --plot
+python3 get_site_id.py --keyfile <FILE WITH API KEYS> --word "Slussen" --plot
 ```
 
 Which saves the following map into a file `map.html` and opens it in a browser for viewing
-![test](test.gif)
+![test](slussen.gif)
